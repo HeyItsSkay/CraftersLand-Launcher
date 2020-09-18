@@ -19,8 +19,9 @@ Currently planned features include:
  - [ ] Auto-update Launcher
  - [ ] Auto-update Modpacks
  - [ ] Native Installing
- - [ ] Dynamic Launcher Libraries
+ - [x] Dynamic Launcher Libraries
  - [ ] Automatic instance migration from old custom launcher
+ - [ ] Complete UI
 
 Any other ideas? Reply to the forum page [here](https://forum.craftersland.net/topic/41318-new-craftersland-launcher-wip/).
 
